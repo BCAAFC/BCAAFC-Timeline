@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <style>
+        	body {
+        		background-color: #350A06;
+        	}
+        	
+        	.well {
+			  min-height: 20px;
+			  width: 90%;
+			  margin-bottom: 20px;
+			  font-family: Gudea;
+			  background-color: #f5f5f5;
+			  border: 1px solid #eee;
+			  border: 1px solid rgba(0, 0, 0, 0.05);
+			  -webkit-border-radius: 4px;
+			     -moz-border-radius: 4px;
+			          border-radius: 4px;
+			  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+			     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+			          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+			}
+
+			@font-face {
+			    font-family: 'GudeaBold';
+			    src: url('css/themes/fonts/gudea-bold-webfont.eot');
+			    src: url('css/themes/fonts/gudea-bold-webfont.eot?#iefix') format('embedded-opentype'),
+			         url('css/themes/fonts/gudea-bold-webfont.woff') format('woff'),
+			         url('css/themes/fonts/gudea-bold-webfont.ttf') format('truetype'),
+			         url('css/themes/fonts/gudea-bold-webfont.svg#GudeaBold') format('svg');
+			    font-weight: normal;
+			    font-style: normal;
+			
+			}
+			
+			
+			
+			
+			@font-face {
+			    font-family: 'GudeaItalic';
+			    src: url('css/themes/fonts/gudea-italic-webfont.eot');
+			    src: url('css/themes/fonts/gudea-italic-webfont.eot?#iefix') format('embedded-opentype'),
+			         url('css/themes/fonts/gudea-italic-webfont.woff') format('woff'),
+			         url('css/themes/fonts/gudea-italic-webfont.ttf') format('truetype'),
+			         url('css/themes/fonts/gudea-italic-webfont.svg#GudeaItalic') format('svg');
+			    font-weight: normal;
+			    font-style: normal;
+			
+			}
+			
+			
+			
+			
+			@font-face {
+			    font-family: 'Gudea';
+			    src: url('css/themes/fonts/gudea-regular-webfont.eot');
+			    src: url('css/themes/fonts/gudea-regular-webfont.eot?#iefix') format('embedded-opentype'),
+			         url('css/themes/fonts/gudea-regular-webfont.woff') format('woff'),
+			         url('css/themes/fonts/gudea-regular-webfont.ttf') format('truetype'),
+			         url('css/themes/fonts/gudea-regular-webfont.svg#GudeaRegular') format('svg');
+			    font-weight: normal;
+			    font-style: normal;
+			
+			}
+			
+			@font-face {
+			    font-family: 'Rancho';
+			    src: url('css/themes/fonts/rancho-regular-webfont.eot');
+			    src: url('css/themes/fonts/rancho-regular-webfont.eot?#iefix') format('embedded-opentype'),
+			         url('css/themes/fonts/rancho-regular-webfont.woff') format('woff'),
+			         url('css/themes/fonts/rancho-regular-webfont.ttf') format('truetype'),
+			         url('css/themes/fonts/rancho-regular-webfont.svg#RanchoRegular') format('svg');
+			    font-weight: normal;
+			    font-style: normal;
+			
+			}
+        </style>
+    </head>
+    <body>
+    	<div align="Center">
+    		<br>
+            <div id="timeline-embed" align="Left"></div>
+   			<script type="text/javascript">
+              		var timeline_config = {
+                  	width:          "90%",
+                  	height:         "600",
+                    
+                  	source:         'BCAAFC.json',
+                  	start_at_end:   false,                      //OPTIONAL
+                  	hash_bookmark:  true,                       //OPTIONAL
+                  	font:           'Rancho-Gudea',             //OPTIONAL
+                  	maptype:        'TERRAIN',                  //OPTIONAL
+                  	css:            'css/timeline.css',         //OPTIONAL
+              	    js:             'js/timeline-edit.js'       //OPTIONAL
+                }
+            </script>
+            <script type="text/javascript" src="js/timeline-embed.js"></script>   
+            <div class="well" align="Center">
+            	<h4> A project using open-source, community developed technologies, proudly presented by the <a href="http://www.bcaafc.com">BCAAFC</a></h4>
+	            <p> Is the timeline showing up inccorectly? You will need a relatively recent browser, most preferably one made in the last 6 years or so. <a href="https://www.google.com/chrome">Get one here.</a></p>
+	            <p> <b>Auto-Advance:</b> Try pressing the up arrow on your keyboard to start auto advancing slides every 10 seconds! Press the left or right arrow to stop!</p>
+            </div>
+           </div>
+    </body>
+</html>

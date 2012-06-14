@@ -1,0 +1,636 @@
+{
+    "timeline":
+    {
+        "headline"  :   "A History of Friendship",
+        "type"      :   "default",
+    "startDate" :   "1863",
+	"text"      :   "BC's Friendship Centre's through their history.",
+        "asset"     :
+        {
+            "media"     :   "images/bcaafclogo-trans.jpg",
+            "caption"   :   "The BCAAFC Logo."
+        },
+        "date": [
+            {
+                "startDate" :   "1863",
+                "headline"  :   "First Residential Schools",
+                "text"      :   "<p>The first Residential Schools open in BC.</p><p>The Canadian Indian residential school system was intended to assimilate the children of the Aboriginal peoples in Canada into European-Canadian society.</p><p> The purpose of the schools, which separated children from their families, has also been described as cultural genocide.</p>",
+                "tag"		:	"Federal",
+                "asset"     :
+                {
+                    "media"     :   "<blockquote>Two primary objectives of the residential school system were to remove and isolate children from the influence of their homes, families, traditions and cultures, and to assimilate them into the dominant culture. These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal. Indeed, some sought, as it was infamously said, 'to kill the Indian in the child.' Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.",
+                    "credit"    :   "",
+                    "caption"   :   "Prime Minister Stephen Harper, official apology, June 11, 2008  "
+                }
+            },
+            {
+                "startDate" :   "1884",
+                "endDate"   :   "1951",
+                "headline"  :   "Potlatches Banned",
+                "text"      :   "<p>In 1884 the B.C. Government banned Potlaching. The ban was lifted in 1951, allowing Indigenous people to once again openly hold potlach to commit to restoring their ancestors ways.</p>",
+                "tag"		:	"Federal",
+                "asset"     :
+                {
+                    "media"     :   "<blockquote>...With the wealth that comes from the respectful use of the territory, the House feeds the name of the Chief in the Feast Hall. In this way, the law, the Chief, the territory, and the Feast become one...",
+                    "credit"    :   "The Spirit in the Land",
+                    "caption"   :   "Delgam Uukw - Gitksan Chief"
+                }
+            },
+			{
+                "startDate" :   "1947",
+                "headline"  :   "Provincial Voting Rights",
+                "text"      :   "Through extensive lobbying efforts by Aboriginal people, the Provinvial Government  granted B.C. Indigenous People the right to vote in provincial elections. <p> Prior to this, only those who gave up their First Nations Status were able to cast their ballot.</p>",
+            	"tag"		:	"Federal"
+			},
+            {
+                "startDate" :   "1954",
+                "headline"  :   "Coqualeeza Fellowship Club Forms",
+                "text"      :   "<p>The Coqualeetza Fellowship Club forms as the Vancouver Indian Centre, marking the  beginning of the Friendship Centre movement in British Columbia. Today it is known as the Vancouver Aboriginal Centre.</p><p>Concerned Aboriginal people in Vancouver formed the Coqualeetza Fellowship Club to provide support services to Aboriginal students moving to the city. Although providing support to students was the primary objective of this group, they began responding to other requests for services from Aboriginal people new to Vancouver.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/vancouver.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+			{
+                "startDate" :   "1963,7,29",
+                "headline"  :   "Coqualeeza Fellowship Club Incorporated",
+                "text"      :   "<p>In 1963 the Coqualeetza Fellowship Club as the Vancouver Indian Centre Society incorporated. Today it is called the 'Vancouver Aboriginal Friendship Centre.'</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/slides/coqualeeza.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1960,3,31",
+                "headline"  :   "Federal Voting Rights",
+                "text"      :   "<p>Prime Minister John Diefenbaker gave non-enfranchised Aboriginals the right to vote in Federal elections.</p><p> Previously, in order to vote an Aboriginal would have to forfeit their Status. By comparison, Native Americans in the US had been allowed to vote since the 1920s.</p>",
+                "tag"		:	"Federal"
+            },
+            {
+                "startDate" :   "1961",
+                "headline"  :   "Travel Ban Lifted",
+                "text"      :   "<p>A travel ban previously placed on Indigenous People wanting to travel from the reserves is lifted.</p>",
+                "tag"		:	"Federal"
+            },
+            {
+                "startDate" :   "1961,5,31",
+                "headline"  :   "Prince Rupert Friendship Centre",
+                "text"      :   "<p>The Prince Rupert Friendship House is incorporated.</p><p>Dr. Bob Elliott, a Minister for the United Church, started the Friendship House in the late 50’s. Dr. Elliott then set up a short stay hostel, a preschool and a thrift store for the community’s First Nations population. In the early 1960’s, he received support to build a facility for Friendship House. The building was completed in 1963 and continues to offer services and activities out of Fraser Street.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/rupert.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1966,2,4",
+                "headline"  :   "Port Alberni Friendship Centre",
+                "text"      :   "<p>The Port Alberni Friendship House is incorporated.</p><p>The Centre was established in the mid-1960’s, with a mandate of providing services for urban native Indians. They are a non-profit, society made up of individual members (300 plus) and a staff of 16.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/alberni.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1968,4,26",
+                "headline"  :   "Nanimo Friendship Centre",
+                "text"      :   "<p>The Tillicum Lelum Aboriginal Society incorporates in Nanimo.</p><p>The Centre was incorporated in 1968. Initially, it was to provided services to Native secondary and post-secondary students residing in the City of Naniamo. Over the years, Tillicum Haus has grown from a coffee drop-in to a Centre offering a wide variety of programs.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/nanimo.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1968",
+                "headline"  :   "26 Friendship Centres",
+                "text"      :   "<p>By now 26 First Native Friendship Centres exist across Canada.</p>",
+                "tag"		:	"National"
+            },
+            {
+                "startDate" :   "1969,8,4",
+                "headline"  :   "Victoria Friendship Centre",
+                "text"      :   "<p>The Victoria Native Friendship Centre is incorporated.</p><p>The Centre has been in existence for over thirty years. Back in 1970, the First Citizens Fund opened up a one room meeting place for Native people new to the urban living. Now it provides services to the estimated 15,000 Aboriginal people living off-reserve in the greater Victoria area and southern Vancouver Island, as well as the 5,000 residents of First Nations communities.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/victoria.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1969,6,16",
+                "headline"  :   "Williams Lake Friendship Centre",
+                "text"      :   "<p>The Cariboo Friendship Society is incorporated in Williams Lake.</p><p>The Cariboo Friendship Society was formed in 1968 by a group of individuals who saw a need to assist Aboriginal people who were making the transition from rural to urban settings. The first Friendship Centre provided referral services and a drop- in centre, which opened in 1969. To obtain more space for its developing programs and services, the Society obtaine10d property at 99 South Third Avenue from the Department of Indian Affairs in 1973. The present Centre opened in 1985 and has now expanded to provide services and programs at several off-site locations as well.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/williams.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1969",
+                "headline"  :   "Steering Committee Established",
+                "text"      :   "<p>In the late sixties, Friendship Centres began to organize into Provincial/Territorial Association’s (PTAs) and a steering committee of Friendship Centres was struck to examine the feasibility of establishing a national body to represent the growing number of Friendship Centres.</p>",
+                "tag"		:	"National"
+            },
+            {
+                "startDate" :   "1969",
+                "headline"  :   "White Paper Released",
+                "text"      :   "<p>The White Paper is released by the Minister of Indian Affairs, then Jean Chretien, proposing the abolition of the Indian Act.</p> <p>The paper advocated the assimilation of the aboriginal peoples into the rest of the Canadian population. It sparked a quick and relatively unanticipated response from First Nations People in opposition of the bill.",
+                "tag"		:	"Federal",
+                "asset"     :
+                {
+                    "media"     :   "<blockquote>Flowery words, a distortion of Indian needs.</blockquote>",
+                    "caption"   :   "Philip Paul, Tsartlip Band, Saanich"
+                }
+            
+            },
+            {
+                "startDate" :   "1970",
+                "headline"  :   "Prince George Friendship Centre",
+                "text"      :   "<p>The Prince George Native Friendship Centre is incorporated.</p><p>The Centre was established in 1969 by a group of young Native people who held the vision of providing a community resource base for the Aboriginal population in Prince George and the surrounding region. In 1970, the centre was formally established as a society. Today, the Centre offers a broad range of programs, servicing over 15,000 people annually.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1970,1,16",
+                "headline"  :   "Fort St. John Friendship Centre",
+                "text"      :   "<p>The Fort St. John Friendship Society is incorporated.</p><p>The first constitution was  signed January 20, 1970. The Society was incorporated February, 1970. Over the years,  the Friendship Society has expanded to provide services to the community. The programs  and services provided by the Friendship Society are designed to support  local cultures and values and encourage healthy lifestyles.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1971,8,5",
+                "headline"  :   "Dawson Creek Friendship Centre",
+                "text"      :   "<p>The Nawican Friendship Centre is incorporated in Dawson Creek.</p><p>In 1966 local volunteers saw a need to bridge the gaps between Native and non-Natives. They raised their own funds through bingo’s and donations and went into the schools and surrounding communities to promote the Friendship Centre movement. The Centre became incorporated Aug 5, 1971. The name, Nawican means 'Native White Canadian'.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/dawson.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1972",
+                "headline"  :   "National Assoc. of Friendship Centres",
+                "text"      :   "<p>National Association of Friendship Centres is incorporated as a not-for-profit organization.</p><p>Their mission is to improve the quality of life for Aboriginal peoples in an urban environment by supporting self-determined activities which encourage equal access to, and participation in, Canadian Society; and which respect and strengthen the increasing emphasis on Aboriginalcultural distinctiveness.</p>",
+                "tag"		:	"National",
+                "asset"     :
+                {
+                    "media"     :   "images/slides/nafc.jpg"
+                }
+            },
+            {
+                "startDate" :   "1972",
+                "endDate"   :   "1982",
+                "headline"  :   "Migrating Native Peoples Program",
+                "text"      :   "<p>The Migrating Native Peoples Program (MNPP) is established by the Federal Government. This was mandated to provide core funds to some 40 Frienship Centres as well as the NAFC.</p>",
+                "tag"		:	"National"
+            },
+            {
+                "startDate" :   "1972",
+                "endDate"   :   "1980",
+                "headline"  :   "Pacific Association in Friendship Indian Centres",
+                "text"      :   "<p>P.A.C.I.F.I.C. funcioned as the provincial body for B.C. Friendship Centres between 1972-1980.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/picture4.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1972,12,19",
+                "headline"  :   "Kamloops Friendship Centre",
+                "text"      :   "<p>The Interior Indian Friendship Society is incorporated.</p><p>Ed Bennet founded the Friendship Centre for the Kamloops region. By December 12th, 1972, the Interior Indian Friendship Centre was a registered society.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/interior.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1972,11,6",
+                "headline"  :   "Quesnel Friendship Centre",
+                "text"      :   "<p>The Quesnel Tillicum Society Native Friendship Centre is incorporated.</p><p>The Quesnel Tillicum Society was established as a non-profit organization in 1972. The Society has grown over the years and now offers a diverse range of programs and services.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/quesnel.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1973,10,18",
+                "headline"  :   "Mission Friendship Centre",
+                "text"      :   "<p>The Mission Friendship Centre Society is incorporated.</p><p>The Mission Indian Friendship Centre was established in 1973. The majority of founding members continue to be actively involved in the operations of the Centre.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/mission.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1974,1,9",
+                "headline"  :   "Kelowna Friendship Centre",
+                "text"      :   "<p>The Ki-Low-Na Friendship Society is incorporated.</p><p>Locals saw a need for a gathering place for Aboriginal peoples in the Central Okanagan. The Ki-low-na Friendship Society was incorporated in 1974, and recently celebrated their 35th Anniversary.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/kelowna.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1975",
+                "headline"  :   "Fort Nelson Friendship Centre",
+                "text"      :   "<p>The Fort Nelson Aboriginal Friendship Society is incorporated.</p><p>The Friendship Society was incorporated in January of 1975 to aid in the transition of Aboriginal people to urban living. They have grown over the years from a one-room building with a core staff of three into a large building with a staff of fourteen.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/nelson.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1975,12,11",
+                "headline"  :   "Duncan Friendship Centre",
+                "text"      :   "<p>The Hiiyu'yu Lelium (House of Friendship) Society is incorporated.</p><p>The Friendship started with three staff in one room. It was originally the Valley Native Friendship Centre. In 1994, they changed their logo as well as their name to 'Hiiyu'yu Lelium', which means ‘house of friend or home away from home'. In 1995, they moved to their current location and housing a wide range of services and programs.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1975,6,15",
+                "headline"  :   "Smithers Friendship Centre",
+                "text"      :   "<p>The Dze L K'ant Friendship Centre is incorporated in Smithers.</p><p>The Centre was established in 1974 to address concerns over Native housing, education, employment and cultural issues. It was incorporated in 1975. By 1978 a house was purchased and converted to service the needs of the community, until funding was obtained for a larger facility.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/smithers.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1975,6,25",
+                "headline"  :   "Merritt Friendship Centre",
+                "text"      :   "<p>The Conayt Friendship Society is incorporated.</p><p>June 25th, 1975-Under the 'Society Act', the province of British Columbia recognized the Nicola Valley Friendship and Counseling Society as a non-profit community-based organization. In 1983, under the Directors, the Nicola Valley Friendship Centre changed its name to what is referred today as the Conayt Friendship Society. The term ‘Conayt’ originates from the 'Nlaka:pamux' Thompson language with the direct translation meaning 'helping others'.</p>",
+                "tag"		:	"Provincial",
+                "asset"     : 
+                {
+                    "media"     :   "images/logos/conayt.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1976,8,28",
+                "headline"  :   "Terrace Friendship Centre",
+                "text"      :   "<p>The Kermode Friendship Centre opens in Terrace.</p><p>In 1970, a small group of residents met at Willard Seymour’s home to discuss the development of a resource centre for Native people. Within a year, a Native Street Worker Program was in place. When BCANSI disbanded, the introduction of the Migrating Native People’s Program was introduced to the Friendship Centres Movement. Kermode was formed and incorporated by 1976. They have continued to raise funds and develop programs to meet the growing needs of the community.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/terrace.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+                        {
+                "startDate" :   "1977,5",
+                "headline"  :   "Vernon Friendship Centre",
+                "text"      :   "<p>The First Nations Friendship Centre is incorporated in Vernon.</p><p>The Founder Len Tanner established the First Nations Friendship Centre with in 1975, operated for two years by utilizing volunteers and make-work programs. It was incorporated as a non-profit organization in 1977 and the Centre received core funding as a 3.5 person Centre in 1980. In 1982, the present building was purchased.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/vernon.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1978,6,26",
+                "headline"  :   "Lillooet Friendship Centre",
+                "text"      :   "<p>The Lillooet Friendship Centre Society is incorporated.</p><p>The Centre started in 1975 as a response to a need identified in a survey carried out by the Lillooet District Indian Council. In 1977, eighty people gathered to discuss the formation of a Friendship Centre.</p><p> The Lillooet Friendship Centre Society has strengthened its capacity to deliver comprehensive community programming within the educational, recreational, health, social service, and cultural sectors and maintained local partnerships.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/lillooet.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1982",
+                "headline"  :   "B.C. Association of Indian Friendship Centres",
+                "text"      :   "<p>The B.C.A.I.F.C was incorporated at the provincial body for B.C. Friendship Centres.</p>",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1982",
+                "headline"  :   "Constitution Act, Section 35",
+                "text"      :   "<p>Section 35 of the Constitution Act, 1982 provides constitutional protection to the aboriginal and treaty rights of Aboriginal peoples in Canada. The section, while within the Constitution of Canada, falls outside the Canadian Charter of Rights and Freedoms. The section does not define the term 'aboriginal rights' or provide a closed list; some examples of the rights that section 35 has been found to protect are fishing, logging, hunting, the right to land (cf. aboriginal title) and the right to enforcement of treaties. There remains a debate over whether the right to aboriginal self-government is included within section 35. As of 2006 the Supreme Court of Canada has made no ruling on the matter. However, since 1995 the Government of Canada has had a policy recognizing the inherent right of self-government under section 35.</p>",
+                "tag"		:	"Federal",
+                "asset"     :   
+                {
+                    "media"     :   "<blockquote>35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed...</blockquote>",
+                    "caption"   :   "Constitution Act, Section 35"
+                }
+            },
+            {
+                "startDate" :   "1983,5,5",
+                "headline"  :   "Chetwynd Friendship Centre",
+                "text"      :   "<p>The Tansi Friendship Centre Society incorporates in Chetwynd.</p> <p>A group of dedicated volunteers helped Tansi become incorporated on May 5, 1983. The Tansi Friendship Centre Society's mission is to provide a co-operative, secure environment where 'Native and Non-Native' can feel welcome. The Society will provide programs, and services needed that will enhance the people in the community to the best of the Tansi Friendship Centre's ability.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/tansi.jpg",
+                    "caption"   :   "",
+                    "credit"    :   ""
+                }
+            },
+            {
+                "startDate" :   "1983",
+                "headline"  :   "MNPP Renamed to NFCP",
+                "text"      :   "<p>In 1983, the NAFC and the Department of the Secretary of State (DSOS) successfully negotiated the evolution of the MNPP to an enriched Native Friendship Centre Program (NFCP). This program, with a five year mandate, formally recognized 'Friendship Centres as legitimate urban Native institutions responding to the needs of Native people.' In 1988, the NFCP became the Aboriginal Friendship Centres Program (AFCP), which secured the status of permanent funding from DSOS.</p>",
+                "tag"		:	"National"
+            },
+            {
+                "startDate" :   "1984",
+                "headline"  :   "Last Residential School Closes",
+                "text"      :   "<p>The last of 23 B.C. Residential Schools close in Lejac/Fraser Lake.</p>",
+                "tag"		:	"Federal"
+            },
+            {
+                "startDate" :   "1985",
+                "headline"  :   "Bill C-31",
+                "text"      :   "<p>An Act to amend the Indian Act seeks to:</p> <p>Remove discrimination,</p> <p>Restore statuses and membership rights,</p> <p>increase control of Indian Bands for their own affairs.</p>",
+                "tag"		:	"Federal"
+            },
+            {
+                "startDate" :   "1988",
+                "headline"  :   "NFCP renamed AFCP",
+                "text"      :   "<p>The NFCP (Formerly the MNPP) is renamed the AFCP, or Aboriginal Friendship Centre Program.</p>",
+                "tag"		:	"National"
+            },
+            {
+                "startDate" :   "1990",
+                "headline"  :   "BCANDS Launched",
+                "text"      :   "The B.C. Aboriginal Network on Disability Society (B.C.A.N.D.S) is launched by the B.C.A.A.F.C. and subsequently incorporated.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1991",
+                "headline"  :   "Healing Our Spirit Workshops",
+                "text"      :   "The Healing Our Spirit HIV/AIDS workshops are delivered in B.C. Friendship Centres.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1992",
+                "headline"  :   "Healing Our Spirit Society",
+                "text"      :   "The Healing Our Spirit Society incorporates as a result of Friendship Centre Workshops.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1994",
+                "headline"  :   "President's Council Established",
+                "text"      :   "The President's Council is Established, including the UNN, the BCAAFC, Native Brotherhood, and the Aboriginal Women's Council.",
+                "tag"		:	"Federal"
+            },
+            {
+                "startDate" :   "1995",
+                "headline"  :   "BCAAFC Provincial Office has 4 Members",
+                "text"      :   "TODO.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1995,8,17",
+                "headline"  :   "Courtney Friendship Centre",
+                "text"      :   "<p>The Wachiay Friendship Centre incorporates in Courtney.</p><p>Wachiay is Cree for welcome; everyone is welcome at the Wachiay Friendship Centre. The Centre has grown significantly since its incorporation in August 1995. There have been many challenges, including the financial difficulty of being a non- core funded centre. The centre has grown from two staff to 16 staff, delivering vital programs and services to community members in the Comox Valley</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/wachiay.jpg",
+                    "caption"   :   "",
+                    "credit"    :   ""
+                }
+            },
+            {
+                "startDate" :   "1996",
+                "headline"  :   "Management of AFCP devolved from Federal Gov. to NAFC",
+                "text"      :   "TODO.",
+                "tag"		:	"National",
+                "asset"     :
+                {
+                    "media"     :   "images/picture2.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1996",
+                "headline"  :   "Royal Commision Report on Aboriginal Peoples Released",
+                "text"      :   "Released concerning government policy with respect to the First Nations of Canada",
+                "tag"		:	"Federal",
+                "asset"     :
+                {
+                    "media"     :   "images/picture3.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1996",
+                "headline"  :   "BC Treaty Commision Established",
+                "text"      :   "The BC Treaty processes begin.",
+                "tag"		:	"Federal",
+                "asset"     :
+                {
+                    "media"     :   "<blockquote>When a First Nation prospers with a modern-day treaty the whole region prospers.</blockquote>",
+                    "caption"   :   "",
+                    "credit"    :   "http://www.bctreaty.net/"
+                }
+            },
+            {
+                "startDate" :   "1996,4,31",
+                "headline"  :   "Surrey Friendship Centre",
+                "text"      :   "The Kla-how-eya Aboriginal Centre is incorporated in Surrey.",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1997",
+                "headline"  :   "BCAAFC AFCP Manual and Program Review Committee Established",
+                "text"      :   "The BCAAFC developed their AFCP Administration Manual outlining the roles and responsibilities of the Centres and the Association, and supporting the Program Review Committee Members.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1998",
+                "headline"  :   "UMAYC Initiative Developed",
+                "text"      :   "Urban Multipurpose Aboriginal Youth Centres Initiative Developed. Their objective is to provide accessible, community-based, culturally relevant projects for Aboriginal youth designed to develop their skills and knowledge.",
+                "tag"		:	"National"
+            },
+            {
+                "startDate" :   "1998",
+                "headline"  :   "PAYC Established",
+                "text"      :   "The Provincial Aboriginal Youth Council is established. Their mission is to create a healthier future for Aboriginal Youth by being a voice, taking action, and making positive changes at a local and provincial level.",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/slides/payc.jpg",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "1999",
+                "headline"  :   "Strategic Planning Session in Whistler regarding Off-Reserve Self Government",
+                "text"      :   "TODO.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1999",
+                "headline"  :   "First Gathering Our Voices Youth Conference",
+                "text"      :   "Held in Prince George, the Gathering Our Voices is an annual event that provides ... TODO.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "1995,10,25",
+                "headline"  :   "Penticton Friendship Centre",
+                "text"      :   "<p>The Ooknakane Friendship Centre is incorporated.</p><p>In October 1993, two First Nation’s women recognized there was no agency for Aboriginals in the South Okanagan catchment area for access to services that are conventional to the native community. They developed the South Okanagan Urban Native Delegation Society (S.O.U.N.D.S.) for the off reserve Aboriginals and Metis people. The society became a registered Friendship Centre on April 25, 2000.</p>",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "images/logos/okanagan.jpg",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "2001",
+                "headline"  :   "Corbiere Supreme Court Decision",
+                "text"      :   "<p>The ruling that the section 77(1) of the Indian Act - stating that only members who are “ordinarily resident on reserve” can vote for Chief and Council - violates section 15 of the Charter of Rights and Freedoms.</p><p>Please see <a href='http://www.bcaafc.com/resources/the-corbiere-decision'>The BCAAFC Support Page</a> for more information.</p>",
+                "tag"		:	"Federal"
+            },
+            {
+                "startDate" :   "2001",
+                "headline"  :   "First Citizens' Fund Admin Transfer",
+                "text"      :   "The administratorship of the First Citizens' Fund is transfered to the BCAAFC.<p> At this time the Government of British Columbia doubled the net value of the Fund from $36 million to $72 million. Interest earned from Fund investments supports programs and services for Aboriginal people.</p>",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "2002",
+                "headline"  :   "Youth Votes added to BCAAFC Board of Directors",
+                "text"      :   "A total of 5 youth votes are added to the BCAAFC Board of Directors.",
+                "tag"		:	"Provincial"
+            },
+            {
+                "startDate" :   "2002,5",
+                "headline"  :   "Port Hardy Friendship Centre",
+                "text"      :   "The Sacred Wolf Friendship Centre is incorporated.",
+                "tag"		:	"Provincial",
+                "asset"     :
+                {
+                    "media"     :   "",
+                    "credit"    :   "",
+                    "caption"   :   ""
+                }
+            },
+            {
+                "startDate" :   "2005",
+                "headline"  :   "Kelowna Accord",
+                "text"      :   "Supporters from across the country gather to protest the exclusion of the Friendship Centres.",
+                "tag"		:	"Federal",
+                "asset"     :
+                {
+                    "media"     :   "http://en.wikipedia.org/wiki/Kelowna_Accord",
+                    "caption"   :   "Wikipedia"
+                }
+            },
+            {
+                "startDate" :   "2006",
+                "headline"  :   "3 Year Strategic Planning Session",
+                "text"      :   "Held in Tih-na-mara.",
+                "tag"		:	"Provincial"
+            },
+            {
+            	"startDate"	:	"2010,5",
+            	"headline"	:	"BCAAFC meets with OFIFC",
+            	"text"		:	"BCAAFC and its member Friendship centres travel to Toronto to meet with the Ontario Federation of Indian Friendship Centres. (OFIFC)",
+            	"tag"		:	"Provincial"
+            },
+            {
+            	"startDate"	:	"2010,10",
+            	"headline"	:	"Capacity Funding Lobby",
+            	"text"		:	"BCAAFC and its Member Friendship Centres engage in a Capacity Funding Lobby in Victoria, BC.",
+            	"tag"		:	"Provicinal"
+            },
+            {
+            	"startDate"	:	"2011,1",
+            	"headline"	:	"20 year Strategic Plan",
+            	"text"		:	"BCAAFC and its member Friendship Centres hold a Strategic Planning retreat in Parksville, BC to develop a 20 year Strategic Plan.",
+            	"tag"		:	"Provincial"
+            },
+            {
+            	"startDate"	:	"2011,10,3",
+            	"headline"	:	"Throne Commitment to Action Plan",
+            	"text"		:	"Throne Speech Commitment to an Off-Reserve Aboriginal Action Plan.",
+            	"tag"		:	"National",
+            	"asset"		:
+            	{
+            		"media"		:	"<blockquote>The government will work with Aboriginal partners, the federal government and local governments to develop an off-reserve Aboriginal action plan to achieve better education and job training, healthier family life, and strengthened cultures and traditions.</blockquote>"
+            	}
+            },
+            {
+            	"startDate"	:	"2011,10",
+            	"headline"	:	"Civic Engagement Campaign",
+            	"text"		:	"BCAAFC Continues its lobby effort now called the “Civic Engagement Campaign” and the develops an Off Reserve Aboriginal Action Plan (ORAAP)",
+            	"tag"		:	"Provincial"
+            }
+        ]
+    }
+}
