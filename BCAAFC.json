@@ -439,7 +439,7 @@
             },
             {
                 "startDate" :   "1995",
-                "headline"  :   "BCAAFC Provincial Office has 4 Members",
+                "headline"  :   "BCAAFC Provincial Office has 4 Staff",
                 "text"      :   "TODO.",
                 "tag"		:	"Provincial"
             },
@@ -622,7 +622,8 @@
             	"tag"		:	"National",
             	"asset"		:
             	{
-            		"media"		:	"<blockquote>The government will work with Aboriginal partners, the federal government and local governments to develop an off-reserve Aboriginal action plan to achieve better education and job training, healthier family life, and strengthened cultures and traditions.</blockquote>"
+            		"media"		:	"<blockquote>The government will work with Aboriginal partners, the federal government and local governments to develop an off-reserve Aboriginal action plan to achieve better education and job training, healthier family life, and strengthened cultures and traditions.</blockquote>",
+					"caption"	:	"<p>The Honourable Steven L. Point, OBC</p><p>Xwě lī qwěl těl</p><p>Lieutenant-Governor</p>"
             	}
             },
             {
