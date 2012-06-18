@@ -369,7 +369,7 @@
             {
                 "startDate" :   "1982",
                 "headline"  :   "Constitution Act, Section 35",
-                "text"      :   "<p>Section 35 of the Constitution Act, 1982 provides constitutional protection to the aboriginal and treaty rights of Aboriginal peoples in Canada. The section, while within the Constitution of Canada, falls outside the Canadian Charter of Rights and Freedoms. The section does not define the term 'aboriginal rights' or provide a closed list; some examples of the rights that section 35 has been found to protect are fishing, logging, hunting, the right to land (cf. aboriginal title) and the right to enforcement of treaties. There remains a debate over whether the right to aboriginal self-government is included within section 35. As of 2006 the Supreme Court of Canada has made no ruling on the matter. However, since 1995 the Government of Canada has had a policy recognizing the inherent right of self-government under section 35.</p>",
+                "text"      :   "<p>Section 35 of the Constitution Act, 1982 provides constitutional protection to the aboriginal and treaty rights of Aboriginal peoples in Canada. The section, while within the Constitution of Canada, falls outside the Canadian Charter of Rights and Freedoms. The section does not define the term 'aboriginal rights' or provide a closed list.</p><p>As of 2006 the Supreme Court of Canada has made no ruling on the matter. However, since 1995 the Government of Canada has had a policy recognizing the inherent right of self-government under section 35.</p>",
                 "tag"		:	"Federal",
                 "asset"     :   
                 {
