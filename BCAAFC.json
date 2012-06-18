@@ -18,9 +18,9 @@
                 "tag"		:	"Federal",
                 "asset"     :
                 {
-                    "media"     :   "<blockquote>Two primary objectives of the residential school system were to remove and isolate children from the influence of their homes, families, traditions and cultures, and to assimilate them into the dominant culture. These objectives were based on the assumption Aboriginal cultures and spiritual beliefs were inferior and unequal. Indeed, some sought, as it was infamously said, 'to kill the Indian in the child.' Today, we recognize that this policy of assimilation was wrong, has caused great harm, and has no place in our country.",
-                    "credit"    :   "",
-                    "caption"   :   "Prime Minister Stephen Harper, official apology, June 11, 2008  "
+                    "media"     :   "<blockquote>'Home' to more than 150,000 children from the 1870s until 1996, the residential school system was aimed at 'killing the Indian in the child' and assimilating First Nations, Métis, and Inuit children into white settler society.</blockquote>",
+                    "credit"    :   "Canadian journal of law and society  01/01/2012  Volume:27 Issue:1  Page:67",
+                    "caption"   :   "Rosemary Nagy and Robinder Kaur Sehdev"
                 }
             },
             {
@@ -535,7 +535,7 @@
             {
                 "startDate" :   "1999",
                 "headline"  :   "First Gathering Our Voices Youth Conference",
-                "text"      :   "Held in Prince George, the Gathering Our Voices is an annual event that provides ... TODO.",
+                "text"      :   "Held in Prince George, the Gathering Our Voices youth conference TODO",
                 "tag"		:	"Provincial"
             },
             {
@@ -594,7 +594,7 @@
             {
                 "startDate" :   "2006",
                 "headline"  :   "3 Year Strategic Planning Session",
-                "text"      :   "Held in Tih-na-mara.",
+                "text"      :   "Held in Parksville.",
                 "tag"		:	"Provincial"
             },
             {
