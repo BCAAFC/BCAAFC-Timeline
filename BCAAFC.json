@@ -181,7 +181,7 @@
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
-                    "media"     :   "",
+                    "media"     :   "images/logos/stjohn.jpg",
                     "credit"    :   "",
                     "caption"   :   ""
                 }
@@ -295,7 +295,7 @@
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
-                    "media"     :   "",
+                    "media"     :   "images/logos/duncan.jpg",
                     "credit"    :   "",
                     "caption"   :   ""
                 }
@@ -535,7 +535,7 @@
             {
                 "startDate" :   "1999",
                 "headline"  :   "First Gathering Our Voices Youth Conference",
-                "text"      :   "Held in Prince George, the Gathering Our Voices youth conference TODO",
+                "text"      :   "Held in Prince George. Gathering Our Voices Aboriginal Youth Conference is for aboriginal youth aged 14-24. The conference focusses on health, language, culture, the environment, employment, education, sports and recreation. The conference offers a wide choice of workshops, cultural activities, and interactive career and education fair, and well as evening entertainment and recreation activities. This provincial forum offers Aboriginal youth an opportunity to come together to begin to make positive changes. The purpose of these conferences is to unite youth from throughout the country in learning, healing and sharing and to provide tools, resources and knowledge that the youth can bring back to their communities.",
                 "tag"		:	"Provincial"
             },
             {
@@ -592,7 +592,7 @@
                 }
             },
             {
-                "startDate" :   "2006",
+                "startDate" :   "2008",
                 "headline"  :   "3 Year Strategic Planning Session",
                 "text"      :   "Held in Parksville.",
                 "tag"		:	"Provincial"
