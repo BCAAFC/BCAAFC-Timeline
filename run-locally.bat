@@ -1,0 +1,1 @@
+C:\Users\hoverbear\AppData\Local\Google\Chrome\Application\chrome.exe --allow-file-access-from-files file:///C:/Users/hoverbear/Documents/GitHub/BCAAFC-Timeline/index.html
