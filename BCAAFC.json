@@ -4,7 +4,7 @@
         "headline"  :   "A History of Friendship",
         "type"      :   "default",
     "startDate" :   "1863",
-	"text"      :   "BC's Friendship Centre's through their history.",
+	"text"      :   "BC's Friendship Centres through their history.",
         "asset"     :
         {
             "media"     :   "images/bcaafclogo-trans.jpg",
@@ -104,8 +104,8 @@
             },
             {
                 "startDate" :   "1968,4,26",
-                "headline"  :   "Nanimo Friendship Centre",
-                "text"      :   "<p>The Tillicum Lelum Aboriginal Society incorporates in Nanimo.</p><p>The Centre was incorporated in 1968. Initially, it was to provided services to Native secondary and post-secondary students residing in the City of Naniamo. Over the years, Tillicum Haus has grown from a coffee drop-in to a Centre offering a wide variety of programs.</p>",
+                "headline"  :   "Nanaimo Friendship Centre",
+                "text"      :   "<p>The Tillicum Lelum Aboriginal Society incorporates in Nanaimo.</p><p>The Centre was incorporated in 1968. Initially, it was to provided services to Native secondary and post-secondary students residing in the City of Nanaimo. Over the years, Tillicum Haus has grown from a coffee drop-in to a Centre offering a wide variety of programs.</p>",
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
@@ -123,7 +123,7 @@
             {
                 "startDate" :   "1969,8,4",
                 "headline"  :   "Victoria Friendship Centre",
-                "text"      :   "<p>The Victoria Native Friendship Centre is incorporated.</p><p>The Centre has been in existence for over thirty years. Back in 1970, the First Citizens Fund opened up a one room meeting place for Native people new to the urban living. Now it provides services to the estimated 15,000 Aboriginal people living off-reserve in the greater Victoria area and southern Vancouver Island, as well as the 5,000 residents of First Nations communities.</p>",
+                "text"      :   "<p>The Victoria Native Friendship Centre is incorporated.</p><p>The Centre has been in existence for over thirty years. Back in 1970, the First Citizens Fund opened up a one room meeting place for Native people new to urban living. Now it provides services to the estimated 15,000 Aboriginal people living off-reserve in the greater Victoria area and southern Vancouver Island, as well as the 5,000 residents of First Nations communities.</p>",
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
@@ -147,7 +147,7 @@
             {
                 "startDate" :   "1969",
                 "headline"  :   "Steering Committee Established",
-                "text"      :   "<p>In the late sixties, Friendship Centres began to organize into Provincial/Territorial Association’s (PTAs) and a steering committee of Friendship Centres was struck to examine the feasibility of establishing a national body to represent the growing number of Friendship Centres.</p>",
+                "text"      :   "<p>In the late sixties, Friendship Centres began to organize into Provincial/Territorial Associations (PTAs) and a steering committee of Friendship Centres was struck to examine the feasibility of establishing a national body to represent the growing number of Friendship Centres.</p>",
                 "tag"		:	"National"
             },
             {
@@ -189,7 +189,7 @@
             {
                 "startDate" :   "1971,8,5",
                 "headline"  :   "Dawson Creek Friendship Centre",
-                "text"      :   "<p>The Nawican Friendship Centre is incorporated in Dawson Creek.</p><p>In 1966 local volunteers saw a need to bridge the gaps between Native and non-Natives. They raised their own funds through bingo’s and donations and went into the schools and surrounding communities to promote the Friendship Centre movement. The Centre became incorporated Aug 5, 1971. The name, Nawican means 'Native White Canadian'.</p>",
+                "text"      :   "<p>The Nawican Friendship Centre is incorporated in Dawson Creek.</p><p>In 1966 local volunteers saw a need to bridge the gaps between Native and non-Natives. They raised their own funds through bingos and donations and went into the schools and surrounding communities to promote the Friendship Centre movement. The Centre became incorporated Aug 5, 1971. The name, Nawican means 'Native White Canadian'.</p>",
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
@@ -291,7 +291,7 @@
             {
                 "startDate" :   "1975,12,11",
                 "headline"  :   "Duncan Friendship Centre",
-                "text"      :   "<p>The Hiiyu'yu Lelium (House of Friendship) Society is incorporated.</p><p>The Friendship started with three staff in one room. It was originally the Valley Native Friendship Centre. In 1994, they changed their logo as well as their name to 'Hiiyu'yu Lelium', which means ‘house of friend or home away from home'. In 1995, they moved to their current location and housing a wide range of services and programs.</p>",
+                "text"      :   "<p>The Hiiyu'yu Lelium (House of Friendship) Society is incorporated.</p><p>The Friendship Centre started with three staff in one room. It was originally the Valley Native Friendship Centre. In 1994, they changed their logo as well as their name to 'Hiiyu'yu Lelium', which means ‘house of friend or home away from home'. In 1995, they moved to their current location and housing a wide range of services and programs.</p>",
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
@@ -445,8 +445,8 @@
             },
             {
                 "startDate" :   "1995,8,17",
-                "headline"  :   "Courtney Friendship Centre",
-                "text"      :   "<p>The Wachiay Friendship Centre incorporates in Courtney.</p><p>Wachiay is Cree for welcome; everyone is welcome at the Wachiay Friendship Centre. The Centre has grown significantly since its incorporation in August 1995. There have been many challenges, including the financial difficulty of being a non- core funded centre. The centre has grown from two staff to 16 staff, delivering vital programs and services to community members in the Comox Valley</p>",
+                "headline"  :   "Courtenay  Friendship Centre",
+                "text"      :   "<p>The Wachiay Friendship Centre incorporates in Courtenay .</p><p>Wachiay is Cree for welcome; everyone is welcome at the Wachiay Friendship Centre. The Centre has grown significantly since its incorporation in August 1995. There have been many challenges, including the financial difficulty of being a non- core funded centre. The centre has grown from two staff to 16 staff, delivering vital programs and services to community members in the Comox Valley</p>",
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
@@ -470,7 +470,7 @@
             {
                 "startDate" :   "1996",
                 "headline"  :   "Royal Commision Report on Aboriginal Peoples Released",
-                "text"      :   "Released concerning government policy with respect to the First Nations of Canada",
+                "text"      :   "Concerning government policy with respect to the First Nations of Canada",
                 "tag"		:	"Federal",
                 "asset"     :
                 {
@@ -541,7 +541,7 @@
             {
                 "startDate" :   "1995,10,25",
                 "headline"  :   "Penticton Friendship Centre",
-                "text"      :   "<p>The Ooknakane Friendship Centre is incorporated.</p><p>In October 1993, two First Nation’s women recognized there was no agency for Aboriginals in the South Okanagan catchment area for access to services that are conventional to the native community. They developed the South Okanagan Urban Native Delegation Society (S.O.U.N.D.S.) for the off reserve Aboriginals and Metis people. The society became a registered Friendship Centre on April 25, 2000.</p>",
+                "text"      :   "<p>The Ooknakane Friendship Centre is incorporated.</p><p>In October 1993, two First Nations women recognized there was no agency for Aboriginals in the South Okanagan catchment area for access to services that are conventional to the native community. They developed the South Okanagan Urban Native Delegation Society (S.O.U.N.D.S.) for the off reserve Aboriginals and Metis people. The society became a registered Friendship Centre on April 25, 2000.</p>",
                 "tag"		:	"Provincial",
                 "asset"     :
                 {
